@@ -3,7 +3,7 @@
  🔍 Features
 - Smart scoring of leads using TF-IDF NLP analysis
 - Automatically categorizes leads into  Hot,  Warm, and  Cold
-- User-friendly Streamlit app for CSV upload, scoring, and export
+- User-friendly Streamlit app for CSV upload, scoring, and export 
 
 🚀 Live Demo
 
