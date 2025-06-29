@@ -8,7 +8,7 @@
  📁 Files Included
 - app.py: Streamlit web app for lead scoring
 - leads.csv: Sample test data
-- requirements.txt: Install dependencies
+- requirements.txt: Install dependencies 
 - report.md: Brief rationale and business use explanation
 
  🧠 Future Scope
