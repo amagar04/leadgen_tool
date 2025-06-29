@@ -8,7 +8,8 @@
 🚀 Live Demo
 
 Try the deployed app here:  
-👉 [Click to Launch Lead Scorer App]((https://leadgentool-57qua3uoyz4tp9gxhxavv3.streamlit.app/))
+👉 [Click to Launch Lead Scorer App]
+   ((https://leadgentool-57qua3uoyz4tp9gxhxavv3.streamlit.app/)
 
  📁 Files Included
 - app.py: Streamlit web app for lead scoring 
