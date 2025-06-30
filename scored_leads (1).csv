@@ -1,0 +1,11 @@
+Name,Title,Company,Industry,Website,Email,About,TFIDF_Score,Tier
+Ravi Shah,CEO,FinTechPro,Finance,fintechpro.com,ravi@fintechpro.com,A platform offering microloans to startups,0.04114165377468121,⚡ Warm Lead
+Anita Mehta,CMO,FashionBee,Retail,fashionbee.in,anita@fashionbee.in,E-commerce site for eco-friendly fashion,0.04658474953124561,⚡ Warm Lead
+Harsh Kulkarni,Founder,EduSaaS,Education,edusaas.in,harsh@edusaas.in,SaaS platform for online learning and course hosting,0.05040635555492104,🔥 Hot Lead
+Priya Nair,CTO,CloudManage,IT Services,cloudmanage.com,priya@cloudmanage.com,B2B SaaS for managing cloud deployments securely,0.05077894589735278,🔥 Hot Lead
+Ramesh Iyer,Intern,LocalBazaar,E-commerce,localbazaar.in,ramesh@localbazaar.in,Marketplace connecting rural vendors to local customers,0.05103103630798288,🔥 Hot Lead
+Kavya Patel,Growth Lead,GreenKart,Food Tech,greenkart.io,kavya@greenkart.io,A subscription-based delivery of organic produce,0.046495996184000035,⚡ Warm Lead
+Sagar Pawar,VP Sales,SecureAI,Cybersecurity,secureai.com,sagar@secureai.com,AI-powered cybersecurity threat detection platform,0.050580238930727175,🔥 Hot Lead
+Tanya Singh,Marketing Head,BeautyCraft,Retail,beautycraft.in,tanya@beautycraft.in,Premium skincare ecommerce brand,0.041666666666666664,⚡ Warm Lead
+Aryan Joshi,Product Lead,TrackLogix,Logistics,tracklogix.io,aryan@tracklogix.io,SaaS for real-time delivery tracking and analytics,0.05073686303264363,🔥 Hot Lead
+Meera Kapoor,CEO,HealthNest,Healthcare,healthnest.in,meera@healthnest.in,A telemedicine platform serving Tier 2 cities in India,0.050580238930727175,🔥 Hot Lead
